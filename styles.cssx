@@ -23,5 +23,8 @@ header {
 
 .logo {
     cursor: pointer; /* When hovering, logo turns into a cursor */
+}
 
+.nav_links {
+    list-style: none;
 }
