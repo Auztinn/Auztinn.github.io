@@ -33,3 +33,4 @@ header {
 nav_links li {
     display: inline-block;
 }
+/* Display makes it so the list is side by side */
