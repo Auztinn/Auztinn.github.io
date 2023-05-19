@@ -19,4 +19,4 @@ header {
     align-items: center;
     padding: 30px 10%;
 }
-/* Use of flexbox above */
+/* Flexbox used to space out nav bar. */
