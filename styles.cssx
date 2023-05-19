@@ -19,12 +19,10 @@ header {
     align-items: center;
     padding: 30px 10%;
 }
-/* Flexbox used to space out nav bar. */
 
 .logo {
     cursor: pointer; 
 }
-/* When hovering, logo turns into a cursor */
 
 .nav_links {
     list-style: none;
@@ -34,4 +32,3 @@ nav_links li {
     display: inline-block;
     padding: 0px 20px;
 }
-/* display makes it so the list is side by side */
