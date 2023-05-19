@@ -22,8 +22,9 @@ header {
 /* Flexbox used to space out nav bar. */
 
 .logo {
-    cursor: pointer; /* When hovering, logo turns into a cursor */
+    cursor: pointer; 
 }
+/* When hovering, logo turns into a cursor */
 
 .nav_links {
     list-style: none;
