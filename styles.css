@@ -12,3 +12,8 @@ font-family: sans-serif;
     color: #edf0f1;
     text-decloration: none;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
