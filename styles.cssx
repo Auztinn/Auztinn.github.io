@@ -20,3 +20,8 @@ header {
     padding: 30px 10%;
 }
 /* Flexbox used to space out nav bar. */
+
+.logo {
+    cursor: pointer; /* When hovering, logo turns into a cursor */
+
+}
