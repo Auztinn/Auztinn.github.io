@@ -28,7 +28,11 @@ header {
     list-style: none;
 }
 
-nav_links li {
+.nav_links li {
     display: inline-block;
     padding: 0px 20px;
+}
+
+.nav_links li a {
+
 }
