@@ -9,7 +9,7 @@ ul.nav {
 }
 ul.nav li {
     border-right:1px solid #000000;
-    background-color: #000000;
+    color: #000000;
     float:left;
 }
 ul.nav a {
