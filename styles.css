@@ -5,6 +5,13 @@
     background-color: #24252A;
 }
 
+about.html:target {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #ffff;
+}
+
 li, a, button {
     font-family: sans-serif;
     font-weight: 500;
