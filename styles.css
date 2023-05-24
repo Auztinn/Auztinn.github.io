@@ -13,6 +13,7 @@ li, a, button {
     text-decoration: none;
 }
 
+/* header_name acts as a "home" button to bring users back to the home page */
 header_name {
     font-family: sans-serif;
     font-weight: 500;
