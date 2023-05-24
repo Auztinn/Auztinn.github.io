@@ -13,8 +13,7 @@ li, a, button {
     text-decoration: none;
 }
 
-
-header_name {
+h1 > a {
     font-family: sans-serif;
     font-weight: 500;
     font-size: 30px;
