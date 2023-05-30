@@ -30,6 +30,7 @@ header {
     background: #080808; /* color=black */
     padding: 30px, 10%;
     margin: 0;
+    border-style : hidden!important;
 }
 /* will be the same for all page headings */
 
