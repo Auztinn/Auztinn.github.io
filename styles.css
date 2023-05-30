@@ -76,6 +76,10 @@ button:hover {
     background-color: #ffff;
 }
 
+.wrapper {
+    opacity: 0.5;
+}
+/* used for half of home page with opacity */
 
 
 
