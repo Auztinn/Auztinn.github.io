@@ -29,6 +29,11 @@ transition: all 0.3s ease 0s;
 color: #0088a9;
 }
 
+.name_hover_1 h1 a:hover {
+transition: all 0.3s ease 0s;
+color: #0088a9;
+}
+
 header {
     display: flex;
     justify-content: space-between;
