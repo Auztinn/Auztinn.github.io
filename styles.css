@@ -24,7 +24,7 @@ h1 > a {
 /* header_name (Austin Douglas) acts as a "home" button to bring users back to the home page */
 
 
-h1 > a:hover {
+h1:hover {
 background-color: rgba(0,136,169,0.8);
 }
 
