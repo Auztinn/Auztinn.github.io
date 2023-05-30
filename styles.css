@@ -28,6 +28,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background: #080808;
+    padding: 30px, 10%;
     margin: 0;
 }
 /* will be the same for all page headings */
