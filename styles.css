@@ -83,8 +83,8 @@ button:hover {
 }
 
 .opacity {
-    background-color: #FDFEFF;
-    color: #080808;
+    background-color: #080808;
+    color: #FDFEFF;
     opacity: .5;
     height: 200px;
     width: 200px;
