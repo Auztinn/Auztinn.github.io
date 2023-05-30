@@ -9,7 +9,7 @@ li, a, button {
     font-family: sans-serif;
     font-weight: 500;
     font-size: 20px;
-    color: #FFFFFF;
+    color: #FDFEFF;
     text-decoration: none;
 }
 /* header options for navigating the page (Services, About, Projects) */
@@ -18,7 +18,7 @@ h1 > a {
     font-family: sans-serif;
     font-weight: 500;
     font-size: 30px;
-    color: #FFFFFF;
+    color: #FDFEFF;
     text-decoration: none;
 }
 /* header_name (Austin Douglas) acts as a "home" button to bring users back to the home page */
@@ -28,7 +28,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    background: #FFFFFF;
+    background: #FDFEFF;
     border: 10px;
 }
 
