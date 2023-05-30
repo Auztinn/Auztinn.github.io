@@ -24,12 +24,12 @@ h1 > a {
 /* header_name (Austin Douglas) acts as a "home" button to bring users back to the home page */
 
 
-.name_hover h1 a:hover {
+.name_hover_1 h1 a:hover {
 transition: all 0.3s ease 0s;
 color: #0088a9;
 }
 
-.name_hover_1 h1 a:hover {
+.name_hover_2 h1 a:hover {
 transition: all 0.3s ease 0s;
 color: #0088a9;
 }
