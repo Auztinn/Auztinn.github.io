@@ -5,10 +5,6 @@
     background-color: #24252A;
 }
 
-.nav {
-    background-color: #000000;
-}
-
 li, a, button {
     font-family: sans-serif;
     font-weight: 500;
@@ -31,6 +27,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
+    background-color: #000000;
 }
 
 
