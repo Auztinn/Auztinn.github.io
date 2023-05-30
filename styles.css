@@ -12,6 +12,7 @@ li, a, button {
     color: #ffffff;
     text-decoration: none;
 }
+/* header options for navigating the page (Services, About, Projects) */
 
 h1 > a {
     font-family: sans-serif;
