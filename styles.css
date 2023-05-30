@@ -9,7 +9,7 @@ li, a, button {
     font-family: sans-serif;
     font-weight: 500;
     font-size: 20px;
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -17,7 +17,7 @@ h1 > a {
     font-family: sans-serif;
     font-weight: 500;
     font-size: 30px;
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 }
 /* header_name acts as a "home" button to bring users back to the home page */
@@ -27,7 +27,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    color: #000000;
+    color: #ffffff;
 }
 
 
