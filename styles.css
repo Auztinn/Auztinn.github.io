@@ -5,6 +5,10 @@
     background-color: #24252A;
 }
 
+.nav {
+    background-color: #000000;
+}
+
 li, a, button {
     font-family: sans-serif;
     font-weight: 500;
