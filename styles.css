@@ -1,6 +1,7 @@
 /* CSS for index.html & universal header */
 
 html, body {
+    font-family: Segoe UI;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -23,7 +24,6 @@ html, body {
 }
 
 li, a, button {
-    font-family: Segoe UI;
     font-weight: 500;
     font-size: 20px;
     color: #FDFEFF; /* color = white */
@@ -33,7 +33,6 @@ li, a, button {
 }
 
 h1 > a {
-    font-family: sans-serif;
     font-weight: 500;
     font-size: 25px;
     color: #FDFEFF; /* color = white */
