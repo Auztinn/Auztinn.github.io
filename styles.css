@@ -78,10 +78,15 @@ button:hover {
     background-color: rgba(0,136,169,0.8); /* color = dark blue */
 }
 
+
+
 /* footer code */
 
 footer {
     text-align: center;
+}
+footer > div > p > a {
+    color: black;
 }
 
 
