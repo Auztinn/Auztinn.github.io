@@ -30,7 +30,6 @@ li, a, button {
     /* header options for navigating the page (Services, About, Projects) */
 }
 
-
 h1 > a {
     font-family: sans-serif;
     font-weight: 500;
@@ -39,7 +38,7 @@ h1 > a {
     text-decoration: none;
     text-align: center;
     
-    /* header_name (Austin Douglas) acts as a "home" button to bring users back to the home page */
+    /* Austin Douglas (header_name) acts as a "home" button to bring users back to the home page */
 }
 
 .name_hover_1 h1 a:hover {
@@ -86,7 +85,7 @@ button:hover {
 
 
 
-/* CSS for About page (html.about) */
+/* CSS for About page (about.html) */
 
 .page2 {
     box-sizing: border-box;
