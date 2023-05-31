@@ -81,7 +81,9 @@ button:hover {
 
 /* footer code */
 
-
+footer {
+    align: center;
+}
 
 /* CSS for About page (about.html) */
 
