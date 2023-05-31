@@ -1,6 +1,6 @@
 /* CSS for index.html & universal header */
 
-html {
+html, body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
