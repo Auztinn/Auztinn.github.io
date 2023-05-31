@@ -4,7 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #FDFEFF; /* color=white */
+    background-color: #FDFEFF; /* color = white */
     
     /* code assigned to index.html (page1) */
 }
@@ -13,7 +13,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #24252A; /* color=grey */
+    background: #24252A; /* color = grey */
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 0;
@@ -26,7 +26,7 @@ li, a, button {
     font-family: arial;
     font-weight: 500;
     font-size: 20px;
-    color: #FDFEFF; /* color=white */
+    color: #FDFEFF; /* color = white */
     text-decoration: none;
     
     /* header options for navigating the page (Services, About, Projects) */
@@ -36,7 +36,7 @@ h1 > a {
     font-family: sans-serif;
     font-weight: 500;
     font-size: 30px;
-    color: #FDFEFF; /* color=white */
+    color: #FDFEFF; /* color = white */
     text-decoration: none;
     text-align: center;
     
@@ -62,7 +62,7 @@ color: #0088a9; /* light blue color when hovering over text */
 }
 
 .nav_links li a:hover {
-    color: #0088a9;
+    color: #0088a9; /* color = light blue*/
 }
 
 button {
