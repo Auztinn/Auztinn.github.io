@@ -1,38 +1,10 @@
+/* code for index.html & universal header */
+
 .page1 {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     background-color: #FDFEFF; /* color=white */
-}
-
-li, a, button {
-    font-family: arial;
-    font-weight: 500;
-    font-size: 20px;
-    color: #FDFEFF; /* color=white */
-    text-decoration: none;
-}
-/* header options for navigating the page (Services, About, Projects) */
-
-h1 > a {
-    font-family: sans-serif;
-    font-weight: 500;
-    font-size: 30px;
-    color: #FDFEFF; /* color=white */
-    text-decoration: none;
-    text-align: center;
-}
-/* header_name (Austin Douglas) acts as a "home" button to bring users back to the home page */
-
-
-.name_hover_1 h1 a:hover {
-transition: all 0.3s ease 0s;
-color: #0088a9;
-}
-
-.name_hover_2 h1 a:hover {
-transition: all 0.3s ease 0s;
-color: #0088a9;
 }
 
 header {
@@ -44,9 +16,41 @@ header {
     padding-right: 20px;
     padding-top: 0;
     margin-top: 0;
+    
+    /* will be the same for all page headings */
 }
-/* will be the same for all page headings */
 
+li, a, button {
+    font-family: arial;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FDFEFF; /* color=white */
+    text-decoration: none;
+    
+    /* header options for navigating the page (Services, About, Projects) */
+}
+
+
+h1 > a {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #FDFEFF; /* color=white */
+    text-decoration: none;
+    text-align: center;
+    
+    /* header_name (Austin Douglas) acts as a "home" button to bring users back to the home page */
+}
+
+.name_hover_1 h1 a:hover {
+transition: all 0.3s ease 0s;
+color: #0088a9;
+}
+
+.name_hover_2 h1 a:hover {
+transition: all 0.3s ease 0s;
+color: #0088a9;
+}
 
 .nav_links {
     list-style: none;
@@ -79,6 +83,9 @@ button:hover {
     background-color: rgba(0,136,169,0.8);
 }
 
+
+
+
 /* CSS for About page (html.about) */
 
 .page2 {
@@ -88,16 +95,16 @@ button:hover {
     background-color: #ffff;
 }
 
+
 .opacity {
     background-color: #24252A;
     color: #FDFEFF;
     opacity: .5;
     height: 200px;
     width: 200px;
+    
+    /* used for half of home page with opacity */
 }
-/* used for half of home page with opacity */
-
-
 
 .input-wrapper {
     width: 170px;
