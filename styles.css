@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #24252A; /* color=dark-grey */
+    background-color: #FDFEFF; /* color=white *
 }
 
 li, a, button {
@@ -39,7 +39,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #080808; /* color=black */
+    background: #24252A; /* color=grey */
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 0;
