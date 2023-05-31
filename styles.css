@@ -29,7 +29,7 @@ li, a, button {
     color: #FDFEFF; /* color = white */
     text-decoration: none;
     
-    /* header options for navigating the page (Services, About, Projects) */
+    /* (Services, About, Projects) header options for navigating the page  */
 }
 
 h1 > a {
