@@ -9,7 +9,7 @@
     /* code assigned to index.html (page1) */
 }
 
-header {
+.nav_home {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -43,7 +43,7 @@ h1 > a {
     /* Austin Douglas (header_name) acts as a "home" button to bring users back to the home page */
 }
 
-header h1 a:hover {
+.nav_home h1 a:hover {
 transition: all 0.3s ease 0s;
 color: #0088a9; /* light blue color when hovering over text */
 }
