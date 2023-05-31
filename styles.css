@@ -88,7 +88,8 @@ footer {
     text-align: center;
     
 }
-footer, div, p, a {
+
+.link {
     color: hotpink;
     font-size: 12px;
 }
