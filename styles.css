@@ -19,6 +19,7 @@ html, body {
     padding-right: 20px;
     padding-top: 0px;
     margin-top: 0px;
+    height: line-height;
     
     /*  header element for all web pages */
 }
