@@ -86,9 +86,11 @@ button:hover {
 
 footer {
     text-align: center;
+    
 }
 footer > div > p > a {
     color: black;
+    font-size: 12px;
 }
 
 
