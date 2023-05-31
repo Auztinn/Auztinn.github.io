@@ -5,6 +5,8 @@
     margin: 0;
     padding: 0;
     background-color: #FDFEFF; /* color=white */
+    
+    /* code assigned to index.html (page1) */
 }
 
 header {
@@ -43,7 +45,7 @@ h1 > a {
 
 .name_hover_1 h1 a:hover {
 transition: all 0.3s ease 0s;
-color: #0088a9;
+color: #0088a9; /* light blue color when hovering over text */
 }
 
 .name_hover_2 h1 a:hover {
