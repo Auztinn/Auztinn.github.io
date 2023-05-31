@@ -88,7 +88,7 @@ footer {
     text-align: center;
     
 }
-footer > div > p > a {
+footer, div, p, a {
     color: hotpink;
     font-size: 12px;
 }
