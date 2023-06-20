@@ -13,7 +13,6 @@ html, body {
 .nav_home{padding:1rem} {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     background: #24252A; /* color = grey */
 
     margin-top: 0px;
