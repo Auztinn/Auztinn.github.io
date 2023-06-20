@@ -13,7 +13,7 @@ html, body {
 .nav_home {
     display: flex;
     flex-wrap: wrap;
-    justify-content: right;
+    justify-content: center;
     align-items: baseline;
     background: #24252A; /* color = grey */
     padding-left: 20px;
