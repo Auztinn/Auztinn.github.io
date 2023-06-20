@@ -12,6 +12,7 @@ html, body {
 
 .nav_home {
     display: flex;
+    flex-wrap: wrap;
     justify-content: right;
     align-items: baseline;
     background: #24252A; /* color = grey */
