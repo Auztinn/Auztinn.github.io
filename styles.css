@@ -11,7 +11,7 @@ html, body {
 }
 
 .nav_home {
-    display: flex;
+    display: inline-block;
     justify-content: space-between;
     align-items: right;
     background: #24252A; /* color = grey */
@@ -20,7 +20,6 @@ html, body {
     padding-top: 0px;
     margin-top: 0px;
     white-space: nowrap; /* alligns all of the elements on the same line (previously one line above each other) */
-    display: inline-block;
     
     /*  header element for all web pages */
 }
