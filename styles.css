@@ -15,13 +15,14 @@ html, body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: baseline;
+    white-space: nowrap; /* helps to spread out the text */
+    
     background: #24252A; /* color = grey */
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 0px;
     margin-top: 0px;
-    white-space: nowrap; /* helps to spread out the text */
-    
+       
     /*  header element for all web pages */
 }
 
