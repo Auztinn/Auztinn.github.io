@@ -12,7 +12,8 @@ html, body {
 
 .nav_home {
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
+    align-items: right;
     background: #24252A; /* color = grey */
     justify-content: space-between;
     padding-left: 20px;
