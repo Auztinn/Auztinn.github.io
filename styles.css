@@ -10,14 +10,12 @@ html, body {
     /* code assigned to index.html (page1) */
 }
 
-.nav_home {
+.nav_home{padding:1rem} {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     background: #24252A; /* color = grey */
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 0px;
+
     margin-top: 0px;
     white-space: nowrap; /* alligns all of the elements on the same line (previously one line above each other) */
     
