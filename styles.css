@@ -12,7 +12,7 @@ html, body {
 
 .nav_home {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: right;
     background: #24252A; /* color = grey */
     justify-content: space-between;
