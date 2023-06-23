@@ -26,13 +26,13 @@ html, body {
     /*  header element for all web pages */
 }
 
-.cta {
+button {
     align-text: right;
 }
 
 /* code for the "Contact" button */
 
-li, a, button {
+li, a {
     font-weight: 500;
     font-size: 22px;
     color: #FDFEFF; /* color = white */
