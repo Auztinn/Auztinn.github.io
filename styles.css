@@ -26,11 +26,6 @@ html, body {
     /*  header element for all web pages */
 }
 
-.cta {
-    float: right;
-
-    /* button for "Contact" button on navbar
-}
 
 /* "Contact" button for navbar */
 
@@ -51,6 +46,12 @@ h1 > a {
     text-align: center;
     
     /* Austin Douglas (nav_home) acts as a "home" button to bring users back to the home page */
+}
+
+.cta {
+    float: right;
+
+    /* button for "Contact" button on navbar
 }
 
 .nav_home h1 a:hover {
