@@ -26,6 +26,10 @@ html, body {
     /*  header element for all web pages */
 }
 
+.cta {
+    align-text: right;
+}
+
 li, a, button {
     font-weight: 500;
     font-size: 22px;
