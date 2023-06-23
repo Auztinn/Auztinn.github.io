@@ -34,7 +34,7 @@ button {
 
 /* "Contact" button for navbar */
 
-li, a {
+li, a, button {
     font-weight: 500;
     font-size: 22px;
     color: #FDFEFF; /* color = white */
