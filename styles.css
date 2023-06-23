@@ -27,7 +27,7 @@ html, body {
 }
 
 a > button {
-    text-align: right;
+    float: right;
 
     /* button for "Contact" button on navbar
 }
