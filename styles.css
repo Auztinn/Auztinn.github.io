@@ -30,6 +30,8 @@ html, body {
     align-text: right;
 }
 
+/* code for the "Contact" button */
+
 li, a, button {
     font-weight: 500;
     font-size: 22px;
