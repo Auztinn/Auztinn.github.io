@@ -28,9 +28,11 @@ html, body {
 
 button {
     align-text: right;
+
+    /* button for "Contact" button on navbar
 }
 
-/* code for the "Contact" button */
+/* "Contact" button for navbar */
 
 li, a {
     font-weight: 500;
