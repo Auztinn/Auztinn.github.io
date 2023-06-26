@@ -15,7 +15,7 @@ html, body {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* spaces nav bar evenly apart */
     display: flex; 
     flex-wrap: wrap;
-    justify-content: center; /* stacks navbar options for phone screem */
+    justify-content: space-between; /* stacks navbar options for phone screem */
     align-items: center;
         
     background: #24252A; /* color = grey */
