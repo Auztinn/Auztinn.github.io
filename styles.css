@@ -114,7 +114,7 @@ button:hover {
 img {
   border-radius: 50%; /* create a circle around the image */
   float: right;
-  padding-right: 60px;
+  padding-right: 80px;
   width: 20%;
   height: auto; 
 
@@ -129,7 +129,7 @@ footer {
    text-align: center;
    bottom: 0px;
    width: 100%;
-    heihgt: 2.5rem;
+   height: 2.5rem;
 }
 
 .email_link {
