@@ -88,6 +88,7 @@ button:hover {
     background-color: rgba(0,0,0,.5);
     color: #fff;
     width: 50%;
+    height: 100px;
 
     /* used to create opaque text-box */
 }
