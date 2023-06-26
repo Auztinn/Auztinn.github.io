@@ -26,7 +26,15 @@ html, body {
     /*  header element for all web pages */
 }
 
-
+h1 > a {
+    font-weight: 600;
+    font-size: 40px;
+    color: #FDFEFF; /* color = white */
+    text-decoration: none;
+    text-align: right;
+    
+    /* Austin Douglas (nav_home) acts as a "home" button to bring users back to the home page */
+}
 
 li, a, button {
     font-weight: 500;
@@ -37,15 +45,6 @@ li, a, button {
     /* (Services, About, Projects) header options for navigating the page  */
 }
 
-h1 > a {
-    font-weight: 600;
-    font-size: 40px;
-    color: #FDFEFF; /* color = white */
-    text-decoration: none;
-    text-align: right;
-    
-    /* Austin Douglas (nav_home) acts as a "home" button to bring users back to the home page */
-}
 
 
 .nav_home h1 a:hover {
