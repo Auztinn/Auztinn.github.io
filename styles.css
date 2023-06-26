@@ -114,7 +114,9 @@ button:hover {
 img {
   border-radius: 50%; /* create a circle around the image */
   float: right;
-  padding-right: 40px;
+  padding-right: 60px;
+  width: 100%;
+  height: auto; 
 
     /* image used for home page profile picture */
 }
