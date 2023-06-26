@@ -85,7 +85,6 @@ button:hover {
 }
 
 .box1 {
-    position: absolute;
     background-color: rgba(0,0,0,.2);
     color: #fff;
     width: 50%;
@@ -99,6 +98,7 @@ button:hover {
 /* footer code */
 
 footer {
+   position: absolute;
    text-align: center;
    bottom: 0;
    width: 100%;
