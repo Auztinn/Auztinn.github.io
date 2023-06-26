@@ -12,7 +12,7 @@ html, body {
 
 .nav_home {
     display: grid;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     justify-content: center;
     align-items: baseline;
     white-space: nowrap; /* helps to spread out the text */
