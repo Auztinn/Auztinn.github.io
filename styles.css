@@ -96,8 +96,8 @@ button:hover {
     background-color: #7CB9E8; /* color = light blue */
     color: #000000;
     width: 40%;
+    heihgt: 400px;
     margin-left: 10px;
-    bottom: 0;
 
     /* used to create opaque text-box */
 }
