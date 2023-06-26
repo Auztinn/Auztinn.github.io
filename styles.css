@@ -48,15 +48,6 @@ h1 > a {
     /* Austin Douglas (nav_home) acts as a "home" button to bring users back to the home page */
 }
 
-.cta {
-    text-align: right;
-    font-weight: 500;
-    font-size: 22px;
-    color: #FDFEFF; /* color = white */
-    text-decoration: none;
-
-    /* button for "Contact" button on navbar */
-}
 
 .nav_home h1 a:hover {
 transition: all 0.3s ease 0s;
