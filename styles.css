@@ -27,8 +27,8 @@ html, body {
 }
 
 h1 > a {
-    font-weight: 600;
-    font-size: 40px;
+    font-weight: 500;
+    font-size: 35px;
     color: #FDFEFF; /* color = white */
     text-decoration: none;
     text-align: right;
