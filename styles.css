@@ -114,8 +114,10 @@ padding: 40px;
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 50%; /* create a circle around the image */
   align-items: center;
+
+    /* image used for home page profile picture */
 }
 
 
