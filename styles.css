@@ -38,8 +38,8 @@ li, a, button {
 }
 
 h1 > a {
-    font-weight: 500;
-    font-size: 30px;
+    font-weight: 600;
+    font-size: 40px;
     color: #FDFEFF; /* color = white */
     text-decoration: none;
     text-align: right;
