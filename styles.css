@@ -13,7 +13,7 @@ html, body {
 .nav_home {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
     align-items: baseline;
     white-space: nowrap; /* helps to spread out the text */
     
