@@ -106,12 +106,6 @@ button:hover {
     /* used to create opaque text-box */
 }
 
-box1_text {
-
-font-size: 20px;
-padding: 40px;
-    
-}
 
 img {
   border-radius: 50%; /* create a circle around the image */
