@@ -43,7 +43,7 @@ li, a, button {
     font-size: 23px;
     color: #FDFEFF; /* color = white */
     text-decoration: none;
-    text-align: right;
+    float: right;
     
     /* (Services, About, Projects & Contact) header options for navigating the page  */
 }
