@@ -101,7 +101,7 @@ button:hover {
     width: 40%;
     height: 200px;
     margin-left: 20px;
-    padding: 500px;
+    padding: 10px;
 
     /* used to create opaque text-box */
 }
