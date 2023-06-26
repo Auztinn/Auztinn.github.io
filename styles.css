@@ -106,9 +106,9 @@ button:hover {
     /* used to create opaque text-box */
 }
 
-.box1_text {
+box1_text {
 
-    height: 10px;
+font-size: 35px;
     
 }
 
