@@ -49,7 +49,7 @@ h1 > a {
 }
 
 .cta {
-    float: right;
+    text-align: right;
 
     /* button for "Contact" button on navbar
 }
