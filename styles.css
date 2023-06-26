@@ -132,17 +132,6 @@ footer {
     /* used for half of home page with opacity */
 }
 
-.input-wrapper {
-    width: 170px;
-    height: 40px;
-    padding: 5px;
-    border-radius: 80px;
-    background-image: linear-gradient(rgb(11, 15, 31), rgb(11, 15, 31)), radial-gradient(circle at top 
-    left, rgb(76, 133, 242),rgb(144, 104, 235));
-    background-clip: content-box, border-box;
-    display: flex;
-    align-items: center;
-}
 
 .input-field {
     outline: 0;
