@@ -31,7 +31,7 @@ h1 > a {
     font-size: 35px;
     color: #FDFEFF; /* color = white */
     text-decoration: none;
-    text-align: left;
+    text-align: center;
     
     /* Austin Douglas (nav_home) acts as a "home" button to bring users back to the home page */
 }
@@ -41,7 +41,6 @@ li, a, button {
     font-size: 23px;
     color: #FDFEFF; /* color = white */
     text-decoration: none;
-    align: right;
     text-align: center;
     
     /* (Services, About, Projects) header options for navigating the page  */
