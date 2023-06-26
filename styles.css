@@ -14,7 +14,7 @@ html, body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
     white-space: nowrap; /* helps to spread out the text */
     
     background: #24252A; /* color = grey */
