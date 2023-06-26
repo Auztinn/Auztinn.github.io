@@ -84,6 +84,12 @@ button:hover {
     background-color: rgba(0,136,169,0.8); /* color = dark blue */
 }
 
+.box1 {
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+
+    /* used to create opaque text-box */
+}
 
 
 
