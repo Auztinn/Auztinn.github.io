@@ -83,6 +83,11 @@ button:hover {
     background-color: rgba(0,136,169,0.8); /* color = dark blue */
 }
 
+.white_space {
+    width: 100%;
+    height: 100px;
+}
+
 .box1 {
     background-color: #89CFF0; /* color = baby blue */
     color: #000000;
