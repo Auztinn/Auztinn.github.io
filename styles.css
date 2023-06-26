@@ -113,7 +113,9 @@ padding: 40px;
     
 }
 
-
+img {
+  border-radius: 50%;
+}
 
 
 /* footer code */
