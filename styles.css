@@ -29,7 +29,7 @@ html, body {
 
 /* "Contact" button for navbar */
 
-li, a, button {
+li, a {
     font-weight: 500;
     font-size: 22px;
     color: #FDFEFF; /* color = white */
@@ -50,6 +50,10 @@ h1 > a {
 
 .cta {
     text-align: right;
+    font-weight: 500;
+    font-size: 22px;
+    color: #FDFEFF; /* color = white */
+    text-decoration: none;
 
     /* button for "Contact" button on navbar
 }
