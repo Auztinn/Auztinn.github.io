@@ -121,7 +121,7 @@ img {
 /* footer code */
 
 footer {
-   position: block;
+   position: sticky;
    text-align: center;
    bottom: 0;
    width: 100%;
