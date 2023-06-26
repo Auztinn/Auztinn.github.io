@@ -85,6 +85,7 @@ button:hover {
 }
 
 .box1 {
+    position: absolute;
     background-color: rgba(0,0,0,.2);
     color: #fff;
     width: 50%;
