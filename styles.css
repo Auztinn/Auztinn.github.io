@@ -129,16 +129,6 @@ button:hover {
 }
 
 
-.opacity {
-    background-color: #24252A;
-    color: #FDFEFF;
-    opacity: .5;
-    height: 200px;
-    width: 200px;
-    
-    /* used for half of home page with opacity */
-}
-
 
 .input-field {
     outline: 0;
