@@ -123,8 +123,8 @@ button:hover {
 
 .page2 {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    margin-left: 20px;
+    padding: 10px;
     background-color: #ffff;
 }
 
