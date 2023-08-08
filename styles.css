@@ -113,22 +113,6 @@ button:hover {
 
 
 
-/* footer code */
-
-footer {
-   position: absolute;
-   text-align: center;
-   bottom: 0px;
-   width: 100%;
-   height: 2.5rem;
-}
-
-.email_link {
-    color: blue;
-    font-size: 18px;
-}
-
-
 
 
 /* CSS for About page (about.html) */
