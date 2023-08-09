@@ -101,6 +101,7 @@ button:hover {
     height: 200px;
     margin-left: 20px;
     padding: 10px;
+    text-align: center;
 
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* spaces nav bar evenly apart */
@@ -108,10 +109,6 @@ button:hover {
     flex-wrap: wrap;
 
     /* used to create opaque text-box */
-}
-
-.box1, h1 {
-    text-align: center;
 }
 
 
