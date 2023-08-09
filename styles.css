@@ -110,6 +110,10 @@ button:hover {
     /* used to create opaque text-box */
 }
 
+.box1, p {
+    text-align: center;
+}
+
 
 
 
